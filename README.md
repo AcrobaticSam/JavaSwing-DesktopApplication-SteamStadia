@@ -46,3 +46,6 @@ To run This Project You must do the following:
 ![alt text](screenshots/deusx.png)
 ![alt text](screenshots/deusx2.png)
 ![alt text](screenshots/deusx3.png)
+
+# Short Demo(Click to view)
+[![Parakeet short demo](https://img.youtube.com/vi/zvHMyamMQ24/0.jpg)](https://www.youtube.com/watch?v=zvHMyamMQ24)
